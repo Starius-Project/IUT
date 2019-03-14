@@ -25,3 +25,7 @@ the reference corresponds to the Eagle library
 * JACK CONNECTOR: PG203J
 
 * resistor, capacitor, LED footprint: 0805 *
+
+
+
+salut
