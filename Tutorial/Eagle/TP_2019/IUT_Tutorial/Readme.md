@@ -5,6 +5,8 @@
 Create a shutter with a mini USB (MINI-USB-UX60-MB-5ST) and a CP2101 for USB to UART, an ATMEGA8-AU (microcontroller) with all required components (resistor, capacitor, quartz)
  and two optocouplers (REF:4N35SM) to control a DSLR (camera). You can add led for status.
  Use a jack connector for DSLR (PG203J).
+ 
+ Power supply is provided by +5V USB.
 
 Activate shutter with two buttons (two pins per button for connection on front panel): Focus and take a picture.
 
@@ -23,4 +25,3 @@ the reference corresponds to the Eagle library
 * JACK CONNECTOR: PG203J
 
 * resistor, capacitor, LED footprint: 0805 *
-
