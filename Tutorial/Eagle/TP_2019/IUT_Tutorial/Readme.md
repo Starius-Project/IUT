@@ -12,4 +12,10 @@ Activate shutter with two buttons (two pins per button for connection on front p
 
 You can check dimensions of the PCB: [PDF](https://github.com/Starius-Project/IUT/blob/master/Tutorial/Eagle/TP_2019/IUT_Tutorial/PCB%20Dimensions.pdf)
 
+## Required Components
+the reference corresponds to the Eagle library
+
+* MINI USB: MINI-USB-UX60-MB-5ST
+* CP2101: CP2101
+* ATMEGA8: 
 
