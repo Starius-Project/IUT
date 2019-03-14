@@ -6,7 +6,7 @@ Create a shutter with a mini USB (MINI-USB-UX60-MB-5ST) and a CP2101 for USB to 
  and two optocouplers (REF:4N35SM) to control a DSLR (camera). You can add led for status.
  Use a jack connector for DSLR (PG203J).
 
-Activate shutter with two buttons (two pins per button for connection on front panel) , Focus and take a picture.
+Activate shutter with two buttons (two pins per button for connection on front panel): Focus and take a picture.
 
 ## Dimensions
 
