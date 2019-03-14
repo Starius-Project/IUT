@@ -1,4 +1,4 @@
-### PROJECT
+### PROJECT: DSLR Shutter
 
 ## Information
 
@@ -17,7 +17,7 @@ the reference corresponds to the Eagle library
 
 * MINI USB: MINI-USB-UX60-MB-5ST
 * CP2101: CP2101
-* ATMEGA8: MEGA8-AI
+* ATMEGA8: MEGA8-AI -> from ATMEL
 * quartz: KX-9B
 * OPTOCOUPLERS: 4N35SM
 * JACK CONNECTOR: PG203J
