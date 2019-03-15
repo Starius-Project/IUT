@@ -1,5 +1,8 @@
 ### PROJECT: DSLR Shutter
 *Don't forget to check the [Wiki](https://github.com/Starius-Project/IUT/wiki/Eagle-Tutorial) !*
+
+![](createWiki.gif)
+
 ## Information
 
 Create a shutter with a mini USB (MINI-USB-UX60-MB-5ST) and a CP2101 for USB to UART, an ATMEGA8-AU (microcontroller) with all required components (resistor, capacitor, quartz)
